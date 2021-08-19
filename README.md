@@ -1,5 +1,5 @@
 # alurapic
-<<<<<<< HEAD
+<p>Projeto usando Vue.js durante um curso na alura</p>
 
 > A Vue.js project
 
